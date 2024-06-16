@@ -1,0 +1,14 @@
+﻿  FRAR.cpp
+C:\Users\The Professor\Desktop\FRAR\FRAR\FRAR.cpp(62,18): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\The Professor\Desktop\FRAR\FRAR\FRAR.cpp(110,18): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\The Professor\Desktop\FRAR\FRAR\FRAR.cpp(138,31): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\The Professor\Desktop\FRAR\FRAR\FRAR.cpp(162,32): warning C4267: '+=': conversion from 'size_t' to 'long', possible loss of data
+C:\Users\The Professor\Desktop\FRAR\FRAR\FRAR.cpp(142,13): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\The Professor\Desktop\FRAR\FRAR\FRAR.cpp(236,18): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\The Professor\Desktop\FRAR\FRAR\FRAR.cpp(248,13): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\The Professor\Desktop\FRAR\FRAR\FRAR.cpp(274,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\The Professor\Desktop\FRAR\FRAR\FRAR.cpp(279,9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\The Professor\Desktop\FRAR\FRAR\FRAR.cpp(308,9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\The Professor\Desktop\FRAR\FRAR\FRAR.cpp(312,27): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\The Professor\Desktop\FRAR\FRAR\FRAR.cpp(319,28): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  FRAR.vcxproj -> C:\Users\The Professor\Desktop\FRAR\FRAR\x64\Debug\FRAR.exe

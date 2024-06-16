@@ -1,0 +1,8 @@
+﻿  FRAR.cpp
+I:\Programming\Software\FRAR\FRAR.cpp(68,18): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+I:\Programming\Software\FRAR\FRAR.cpp(75,12): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+I:\Programming\Software\FRAR\FRAR.cpp(125,18): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+I:\Programming\Software\FRAR\FRAR.cpp(158,31): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+I:\Programming\Software\FRAR\FRAR.cpp(163,13): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+I:\Programming\Software\FRAR\FRAR.cpp(212,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  FRAR.vcxproj -> I:\Programming\Software\FRAR\x64\Debug\FRAR.exe
