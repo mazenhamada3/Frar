@@ -29,4 +29,4 @@ FRAR is a C++ application designed to efficiently compress and decompress text f
 ## Installation
 1. **Clone the Repository**: 
    ```sh
-   git clone https://github.com/mazenhamada3/Frar.git
+   https://github.com/mazenhamada3/Frar.git
